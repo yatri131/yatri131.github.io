@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Yatri Patel</title>
+    <link>https://yatri131.github.io/blog/</link>
+    <description>Recent content in Blogs on Yatri Patel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Yatri Patel {2020}</copyright>
+    <lastBuildDate>Sat, 29 Aug 2020 09:19:29 -0400</lastBuildDate>
+    
+	<atom:link href="https://yatri131.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>welcome to my blog &gt;</title>
+      <link>https://yatri131.github.io/blog/welcome-post/</link>
+      <pubDate>Sat, 29 Aug 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://yatri131.github.io/blog/welcome-post/</guid>
+      <description>Hello, Thanks for visiting my blog!😃
+I intend to write posts related to growth marketing here, as I am navigate my own journey as a growth marketer and learn new things.
+So follow along, and stay updated. Feel free to drop me a message on my linkedin or email!</description>
+    </item>
+    
+  </channel>
+</rss>
